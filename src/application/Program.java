@@ -11,6 +11,8 @@ public class Program {
 		
 		
 		Seller seller = new Seller();
+		
+		System.out.println(seller);
 	    }
 		
 	}
